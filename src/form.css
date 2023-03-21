@@ -1,0 +1,117 @@
+
+  
+  
+  
+    
+  
+          /* Form CSS */
+          #register, #login {
+            width: 300px;
+            border: 1px solid #ffffff;
+            padding: 0px 15px 15px 15px;
+            border-radius: 5px;
+            font-family: arial;
+            line-height: 16px;
+            color: #333333;
+            font-size: 14px;
+            background: #ffffff;
+            margin: 100px auto;
+            overflow: hidden;
+
+          }
+          
+          form label, form input {
+            /* display: block;
+            //margin-bottom: 10px; */
+            width: 90%
+          }
+          
+          form input {
+            padding: 10px;
+            border: solid 1px #BDC7D8;
+          
+          }
+          
+          .button {
+            background-color: #378692;
+            font-weight: bold;
+            padding: 12px 15px;
+            font-size:20px;
+            color: #ffffff;
+            border-radius: 10px;
+            margin-left: 40px;
+            margin-top: 20px;
+            width: 200px;
+            
+          }
+          
+          .errorMsg {
+            color: #ff7720;
+            margin-bottom: 12px;
+          }
+          
+          .sucessMsg {
+            color: #6B8E23;
+            margin-bottom: 10px;
+            
+          }
+          .New button{
+            width: 30px;
+            height: 30px;
+            /* padding: 20px 20px; */
+            left: 100px;
+          }
+  
+          .New img{
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            top: 40px;
+          }
+          button{
+            background-color:rgb(22, 135, 188);
+            padding:30px 30px;
+            font-size:14px;
+            position: relative;
+            top:5px;
+            left: 150px;
+            color: #ffffff;
+            border-radius: 10px;
+            margin-left: 12px;
+            border-color: #ffffff;
+            border: 2px;
+          }
+          input
+          {
+            margin: 10px 15px;
+           
+
+          }
+          select
+          {
+            padding: 10px 20px;
+            margin-top: 10px;
+           margin-right: 84px ;
+            position: relative;
+          }
+          textarea
+          {
+            margin-top: 10px;
+            padding: 10px 20px;
+           margin-right: 65px ;
+
+
+          }
+          #register
+          {
+            background-color: rgb(255, 255, 255);
+            padding-right: 50px;
+            box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+          }
+          h2
+          {
+            padding-top: 10px;
+            position: relative;
+            left: 20px;
+          }
+         
